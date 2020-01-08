@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1
-http://livebgtv.stream/logos/tiankovfolk.png
+{"name":"DISCOVERY CHANNEL","media_type":"video","id":"discovery","logo_url":"http://livebgtv.stream/logos/discovery.png","uri":"/hls/discovery/index.m3u8"}
