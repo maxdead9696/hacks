@@ -1,2 +1,219 @@
 #EXTM3U
-http://livebgtv.stream/bg/
+#EXTINF:0,#EXTINF:-1,(BG) Планета HD
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/147750.ts
+#EXTINF:0,#EXTINF:-1,(BG) AMC
+http://ip.sltv.be:8000/live/VdUBC66e...c8uB1/93378.ts
+#EXTINF:0,#EXTINF:-1,(BG) ANIMAL PLANET
+http://ip.sltv.be:8000/live/VdUBC66e...c8uB1/93371.ts
+#EXTINF:0,#EXTINF:-1,(BG) Action Plus HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3872.ts
+#EXTINF:0,#EXTINF:-1,(BG) Alfa TV
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3871.ts
+#EXTINF:0,#EXTINF:-1,(BG) BNT 1
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3868.ts
+#EXTINF:0,#EXTINF:-1,(BG) BNT 2
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3884.ts
+#EXTINF:0,#EXTINF:-1,(BG) BNT 2 HD
+http://ip.sltv.be:8000/live/VdUBC66e...c8uB1/93376.ts
+#EXTINF:0,#EXTINF:-1,(BG) BNT HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3867.ts
+#EXTINF:0,#EXTINF:-1,(BG) Bon Air
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3883.ts
+#EXTINF:0,#EXTINF:-1,(BG) Box TV
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3866.ts
+#EXTINF:0,#EXTINF:-1,(BG) Cinema Plus
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3860.ts
+#EXTINF:0,#EXTINF:-1,(BG) Comedy Plus
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3859.ts
+#EXTINF:0,#EXTINF:-1,(BG) Diema Family
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3857.ts
+#EXTINF:0,#EXTINF:-1,(BG) Diema Sport HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3855.ts
+#EXTINF:0,#EXTINF:-1,(BG) DIEMA SPORT 1 HD
+http://ip.sltv.be:8000/live/VdUBC66e...c8uB1/93379.ts
+#EXTINF:0,#EXTINF:-1,(BG) Diema Sport 2 HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3856.ts
+#EXTINF:0,#EXTINF:-1,(BG) Diema TV
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3854.ts
+#EXTINF:0,#EXTINF:-1,(BG) EUROSPORT 2 HD
+http://ip.sltv.be:8000/live/VdUBC66e...c8uB1/93380.ts
+#EXTINF:0,#EXTINF:-1,(BG) M Sport 1 HD
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/145104.ts
+#EXTINF:0,#EXTINF:-1,(BG) M Sport 2 HD
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/145105.ts
+#EXTINF:0,#EXTINF:-1,(BG) F Plus
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3853.ts
+#EXTINF:0,#EXTINF:-1,(BG) FOX CRIME
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/8458.ts
+#EXTINF:0,#EXTINF:-1,(BG) FOX HD
+http://ip.sltv.be:8000/live/VdUBC66e...c8uB1/93375.ts
+#EXTINF:0,#EXTINF:-1,(BG) FOX TV
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/8456.ts
+#EXTINF:0,#EXTINF:-1,(BG) Film Plus
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3850.ts
+#EXTINF:0,#EXTINF:-1,(BG) FilmBox HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3849.ts
+#EXTINF:0,#EXTINF:-1,(BG) Fox Crime HD
+http://ip.sltv.be:8000/live/VdUBC66e...c8uB1/93374.ts
+#EXTINF:0,#EXTINF:-1,(BG) Hobby Lov
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3848.ts
+#EXTINF:0,#EXTINF:-1,(BG) Hobby TV
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3847.ts
+#EXTINF:0,#EXTINF:-1,(BG) KINO NOVA
+http://ip.sltv.be:8000/live/VdUBC66e...c8uB1/93373.ts
+#EXTINF:0,#EXTINF:-1,(BG) Kanal 3
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3845.ts
+#EXTINF:0,#EXTINF:-1,(BG) KinoNova
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3844.ts
+#EXTINF:0,#EXTINF:-1,(BG) MUSIC TV
+http://ip.sltv.be:8000/live/VdUBC66e...c8uB1/93381.ts
+#EXTINF:0,#EXTINF:-1,(BG) MagicTV
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3843.ts
+#EXTINF:0,#EXTINF:-1,(BG) NOVA TV
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3841.ts
+#EXTINF:0,#EXTINF:-1,(BG) NOVA TV HD
+http://ip.sltv.be:8000/live/VdUBC66e...c8uB1/93377.ts
+#EXTINF:0,#EXTINF:-1,(BG) Nature & History HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/8329.ts
+#EXTINF:0,#EXTINF:-1,(BG) Nova Sport HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3842.ts
+#EXTINF:0,#EXTINF:-1,(BG) RING BG HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3838.ts
+#EXTINF:0,#EXTINF:-1,(BG) TV Plus
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3834.ts
+#EXTINF:0,#EXTINF:-1,(BG) bTV Action HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3865.ts
+#EXTINF:0,#EXTINF:-1,(BG) bTV Cinema
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3864.ts
+#EXTINF:0,#EXTINF:-1,(BG) bTV Comedy
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3863.ts
+#EXTINF:0,#EXTINF:-1,(BG) bTV HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3862.ts
+#EXTINF:0,#EXTINF:-1,(BG) bTV Lady
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3861.ts
+#EXTINF:0,#EXTINF:-1,(BG) 24 KITCHEN
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133639.ts
+#EXTINF:0,#EXTINF:-1,(BG) AURO MOTOR SPORT
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133659.ts
+#EXTINF:0,#EXTINF:-1,(BG) AXN
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133627.ts
+#EXTINF:0,#EXTINF:-1,(BG) BABY TV
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133636.ts
+#EXTINF:0,#EXTINF:-1,(BG) BIT
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133652.ts
+#EXTINF:0,#EXTINF:-1,(BG) BLOOMBERG
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133645.ts
+#EXTINF:0,#EXTINF:-1,(BG) BNT WORD
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133644.ts
+#EXTINF:0,#EXTINF:-1,(BG) bTV
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133678.ts
+#EXTINF:0,#EXTINF:-1,(BG) BTV Action
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133669.ts
+#EXTINF:0,#EXTINF:-1,(BG) BUL onAIR
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133643.ts
+#EXTINF:0,#EXTINF:-1,(BG) CARTOON NETWORK
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133658.ts
+#EXTINF:0,#EXTINF:-1,(BG) CBS REAILTY
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133662.ts
+#EXTINF:0,#EXTINF:-1,(BG) CINEMAX
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133634.ts
+#EXTINF:0,#EXTINF:-1,(BG) CINEMAX 2
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133633.ts
+#EXTINF:0,#EXTINF:-1,(BG) DESTINATIONS
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133649.ts
+#EXTINF:0,#EXTINF:-1,(BG) Discovery Channel
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133675.ts
+#EXTINF:0,#EXTINF:-1,(BG) DISNEY CHANNEL
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133642.ts
+#EXTINF:0,#EXTINF:-1,(BG) DSTV
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133632.ts
+#EXTINF:0,#EXTINF:-1,(BG) E-KIDS
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133653.ts
+#EXTINF:0,#EXTINF:-1,(BG) EUROSPORT 1
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133655.ts
+#EXTINF:0,#EXTINF:-1,(BG) EUROSPORT 2
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133654.ts
+#EXTINF:0,#EXTINF:-1,(BG) EVROKOM
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133635.ts
+#EXTINF:0,#EXTINF:-1,(BG) FEN FOLK TV
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133626.ts
+#EXTINF:0,#EXTINF:-1,(BG) Filmbox Extra
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133638.ts
+#EXTINF:0,#EXTINF:-1,(BG) FOLKLOR TV
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133625.ts
+#EXTINF:0,#EXTINF:-1,(BG) FOOD NETWORK
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133637.ts
+#EXTINF:0,#EXTINF:-1,(BG) Fox
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133674.ts
+#EXTINF:0,#EXTINF:-1,(BG) Fox Life
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133673.ts
+#EXTINF:0,#EXTINF:-1,(BG) HBO1
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133668.ts
+#EXTINF:0,#EXTINF:-1,(BG) HBO2
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133667.ts
+#EXTINF:0,#EXTINF:-1,(BG) HBO3
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133624.ts
+#EXTINF:0,#EXTINF:-1,(BG) History Channel
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133672.ts
+#EXTINF:0,#EXTINF:-1,(BG) HOBBY LOV TV
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133650.ts
+#EXTINF:0,#EXTINF:-1,(BG) JIM JAM
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133651.ts
+#EXTINF:0,#EXTINF:-1,(BG) MAGIC TV
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133648.ts
+#EXTINF:0,#EXTINF:-1,(BG) Nat Geo Wild HD
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133665.ts
+#EXTINF:0,#EXTINF:-1,(BG) National Geographic HD
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133670.ts
+#EXTINF:0,#EXTINF:-1,(BG) Nickelodeon
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133620.ts
+#EXTINF:0,#EXTINF:-1,(BG) Nova
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133664.ts
+#EXTINF:0,#EXTINF:-1,(BG) Nova Sport
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133663.ts
+#EXTINF:0,#EXTINF:-1,(BG) Planeta Folk
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133671.ts
+#EXTINF:0,#EXTINF:-1,(BG) RING BG
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133677.ts
+#EXTINF:0,#EXTINF:-1,(BG) Roma TV
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133660.ts
+#EXTINF:0,#EXTINF:-1,(BG) SPORT
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133646.ts
+#EXTINF:0,#EXTINF:-1,(BG) TLC
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133656.ts
+#EXTINF:0,#EXTINF:-1,(BG) Travel TV HD
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133647.ts
+#EXTINF:0,#EXTINF:-1,(BG) TV 1000
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133629.ts
+#EXTINF:0,#EXTINF:-1,(BG) BG MUSIC
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133621.ts
+#EXTINF:0,#EXTINF:-1,(BG) The Voice
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133666.ts
+#EXTINF:0,#EXTINF:-1,(BG) BG Music HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3869.ts
+#EXTINF:0,#EXTINF:-1,(BG) Balkanika Music TV HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3870.ts
+#EXTINF:0,#EXTINF:-1,(BG) Fen TV HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3852.ts
+#EXTINF:0,#EXTINF:-1,(BG) Planeta
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133661.ts
+#EXTINF:0,#EXTINF:-1,(BG) Planeta HD
+http://ip.sltv.be:8000/live/VdUBC66e...4c8uB1/3839.ts
+#EXTINF:0,#EXTINF:-1,(BG) TVEUROPE
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/133657.ts
+#EXTINF:0,#EXTINF:-1,(BG) Discovery Channel HD
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/147752.ts
+#EXTINF:0,#EXTINF:-1,(BG) EpicDrama HD
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/147749.ts
+#EXTINF:0,#EXTINF:-1,(BG) Film+
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/147745.ts
+#EXTINF:0,#EXTINF:-1,(BG) FOLK MK FULL HD
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/147747.ts
+#EXTINF:0,#EXTINF:-1,(BG) Investigation Discovery
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/147753.ts
+#EXTINF:0,#EXTINF:-1,(BG) Movie STAR Full HD
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/147748.ts
+#EXTINF:0,#EXTINF:-1,(BG) Moviestar
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/147746.ts
+#EXTINF:0,#EXTINF:-1,(BG) Sport Plus HD
+http://ip.sltv.be:8000/live/VdUBC66e...8uB1/147716.ts
